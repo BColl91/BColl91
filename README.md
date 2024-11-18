@@ -1,6 +1,6 @@
 - 👋 Hi, I’m B! (Or Rebecca/Becca/etc..)
 - 👀 I’m interested in games, fantasy, food, sleep..
-- 🌱 I’m currently learning HTML, CSS, JavaScript, ..Im on a course with CodeNation so this will expand!
+- 🌱 I’ve recently finished studying (but will continue to develop my skills in) Python, HTML, CSS, SCSS, JavaScript, REACT)
 - ⚡ Fun fact: I have a degree in Costume Making! (They had me model an Andy Pandy Costume...)
 
 - 
