@@ -1,9 +1,10 @@
-# Hi, I’m **B**! (Or any version of Rebecca you prefer)
+# Hi, I’m **B**! 
+(Or any version of Rebecca you prefer)
 
 
-👀 I’m interested in games, fantasy, food, sleep..
+🌱 I have some knowlege in:-
+   - HTML, CSS, SCSS, JavaScript, REACT, bash, git, NodeJs, MongoDB, MySQL, AWS
 
-🌱 I’ve recently finished studying (but will continue to develop my skills in) Python, HTML, CSS, SCSS, JavaScript, REACT and bash
 
 ⚡ Fun fact: I have a degree in Costume Making! (They had me model an Andy Pandy Costume...)
 
@@ -19,8 +20,16 @@
 - [ ] CI/CD
 - [ ] Agile, Scrum and Professional termology and definitions
 - [ ] yaml, xml, json and understanding file formatting
+- [ ] AWS
 
 ----------------------------------------
 
 [My Roadmap](https://roadmap.sh/card/tall/668033d6fd6073669295c217?variant=dark)
 [My Portfolio](https://rebeccacollinsportfolio.netlify.app/)
+<div id="badges">
+   <a href="https://www.linkedin.com/in/rebeccacollins1007/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
+---------
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bcoll91&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
